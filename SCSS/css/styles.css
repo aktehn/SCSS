@@ -2,7 +2,7 @@
 /** FONTLAR**/
 @import url("https://fonts.googleapis.com/css2?family=Changa:wght@500&family=Open+Sans:wght@300&display=swap");
 /**DEĞİŞKENLER**/
-/**UTLİTİES**/
+/**UTLİTİES***/
 .bg-dark {
   background-color: #14151a;
 }
@@ -580,7 +580,8 @@ img {
       grid-template-rows: auto;
   grid-row-gap: 4rem;
   grid-column-gap: 4rem;
-      grid-template-areas: "item-1 item-1 item-1 item-2" "item-3 item-4 item-5 item-6";
+      grid-template-areas: "item-1 item-1 item-1 item-2"
+ "item-3 item-4 item-5 item-6";
 }
 
 .recent-games-content .recent-game-featured {
